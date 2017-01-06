@@ -1,0 +1,2 @@
+requests==2.11.1
+captcha-solver==0.0.3
